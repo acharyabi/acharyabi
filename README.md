@@ -34,8 +34,9 @@ I would rather compose proven primitives than rebuild what already works.
 
 ### Currently
 
-Building a Go backend template I actually want to start projects from, and writing a
-TCP chat server in C to relearn sockets the slow way.
+Building a Go backend template I actually want to start projects from. Next up is a
+TCP chat server in C, working up from raw sockets to a multiplexed server, because
+some things are worth learning the slow way.
 
 ### Contributions
 
