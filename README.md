@@ -64,6 +64,16 @@ Alongside that: a Go backend template I actually want to start projects from, an
 up a TCP chat server in C, working from raw sockets to a multiplexed server, because
 some things are worth learning the slow way.
 
+### Where I want to end up
+
+Medical research, specifically the part where software and hardware together change
+how someone actually lives. Sensors, signal processing, and pipelines that turn messy
+clinical data into something a person can act on. That is what I would like to spend
+my working life on.
+
+So I am open about it: I am looking for opportunities and partnerships in that space,
+and for a proper mentor working in it. If that is you, I would like to talk.
+
 ### Got an idea?
 
 If there is something small and annoying in your day that software should have fixed
@@ -71,11 +81,7 @@ by now, I would genuinely like to hear about it. Some of them turn into real pro
 
 <a href="https://github.com/acharyabi/acharyabi/discussions">Start a discussion</a>
 
-### Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=acharyabi&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Commits" alt="activity graph" />
-
-### The snake eats the graph
+### Contributions, eaten by a snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acharyabi/acharyabi/output/github-contribution-grid-snake-dark.svg" />
