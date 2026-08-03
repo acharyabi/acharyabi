@@ -10,19 +10,8 @@
 
 <table>
 <tr>
-<td valign="top">
-<pre>
-        _______
-       /       \
-    __| (o) (o) |__
-   |  |    ^    |  |
-   |  |  '---'  |  |
-   |   \_______/   |
-   |_______________|
-   |  [ W A L L E ]|
-   |_______________|
-    (##)     (##)
-</pre>
+<td valign="top" width="200">
+<img src="https://raw.githubusercontent.com/acharyabi/acharyabi/main/assets/robot.svg" width="180" alt="robot" />
 </td>
 <td valign="top">
 
@@ -52,16 +41,20 @@ universe fits together.
   <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF41" alt="Docker" />
 </p>
 
-**Go** for services. gRPC, REST and NATS JetStream, with OpenTelemetry wired through from the start.
-
-**Python** for data. Prefect, dbt and PySpark feeding ClickHouse and Postgres.
-
-**C** for anything close to the hardware. STM32 firmware, sensor fusion and pose estimation, mostly out of my robotics years.
+| | Where it goes | What that looks like |
+|---|---|---|
+| **Go** | Services | gRPC, REST and NATS JetStream, with OpenTelemetry wired through from the start |
+| **Python** | Data | Prefect, dbt and PySpark feeding ClickHouse and Postgres |
+| **C** | Close to the hardware | STM32 firmware, sensor fusion and pose estimation, mostly out of my robotics years |
 
 ### Currently
 
-Building a Go backend template I actually want to start projects from. Next up is a
-TCP chat server in C, working up from raw sockets to a multiplexed server, because
+Trying to understand systems properly, the whole stack of them. POSIX and system calls,
+networking, and how memory actually behaves, then working up to how the choice of
+programming language and algorithm shapes the way you end up thinking about a problem.
+
+Alongside that: a Go backend template I actually want to start projects from, and next
+up a TCP chat server in C, working from raw sockets to a multiplexed server, because
 some things are worth learning the slow way.
 
 ### Contributions
