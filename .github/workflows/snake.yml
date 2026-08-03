@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: acharyabi
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#008f11&color_dots=#e8ffe8,#a6f5b8,#4ade80,#16a34a,#008f11
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff41&color_dots=#161b22,#003b00,#006414,#00c721,#00ff41
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
