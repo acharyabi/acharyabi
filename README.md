@@ -79,7 +79,21 @@ and for a proper mentor working in it. If that is you, I would like to talk.
 If there is something small and annoying in your day that software should have fixed
 by now, I would genuinely like to hear about it. Some of them turn into real projects.
 
+<a href="https://github.com/acharyabi/acharyabi/discussions/3">Sign the guestbook</a>
+·
 <a href="https://github.com/acharyabi/acharyabi/discussions">Start a discussion</a>
+
+### From the guestbook
+
+<!-- GUESTBOOK:START -->
+_No notes yet._ [Be the first](https://github.com/acharyabi/acharyabi/discussions/3).
+<!-- GUESTBOOK:END -->
+
+### What people are talking about
+
+<!-- THREADS:START -->
+_No threads open yet._
+<!-- THREADS:END -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acharyabi/acharyabi/output/github-contribution-grid-snake-dark.svg" />
