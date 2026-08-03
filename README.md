@@ -81,8 +81,6 @@ by now, I would genuinely like to hear about it. Some of them turn into real pro
 
 <a href="https://github.com/acharyabi/acharyabi/discussions">Start a discussion</a>
 
-### Contributions, eaten by a snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acharyabi/acharyabi/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acharyabi/acharyabi/output/github-contribution-grid-snake.svg" />
