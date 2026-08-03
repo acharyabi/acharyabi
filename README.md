@@ -2,16 +2,22 @@
 
 Paradoxically, I'm the tortoise in this trampling world that gallops.
 
+Building distributed systems, high-throughput data pipelines, and embedded control — where engineering, data, and real-world impact meet.
+
 📍 Nepal
 
 ## What I work with
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+- **Go** — self-healing backend services, gRPC/REST/NATS interfaces, high-throughput ingestion
+- **Python** — production ETL pipelines, PySpark, billion-scale ingestion into ClickHouse/PostgreSQL
+- **C** — embedded control and sensor fusion (STM32, real-time pose estimation, SLAM navigation)
 
 ## GitHub stats
 
