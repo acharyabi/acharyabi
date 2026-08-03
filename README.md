@@ -8,11 +8,37 @@
   <img src="https://komarev.com/ghpvc/?username=acharyabi&label=visitors&color=00ff41&style=flat-square" alt="profile views" />
 </p>
 
+<table>
+<tr>
+<td valign="top">
+<pre>
+        _______
+       /       \
+    __| (o) (o) |__
+   |  |    ^    |  |
+   |  |  '---'  |  |
+   |   \_______/   |
+   |_______________|
+   |  [ W A L L E ]|
+   |_______________|
+    (##)     (##)
+</pre>
+</td>
+<td valign="top">
+
 I build backend services and data pipelines. Most of my work sits where distributed
 systems meet large scale data: ingestion that has to stay up, pipelines that move
 billions of rows, and now and then a microcontroller that needs to figure out where it is.
 
 I would rather compose proven primitives than rebuild what already works.
+
+Lately I have been taking breaks to go deeper into systems programming and the
+fundamentals underneath everything, because I like understanding how the whole
+universe fits together.
+
+</td>
+</tr>
+</table>
 
 ### What I reach for
 
@@ -39,10 +65,6 @@ TCP chat server in C, working up from raw sockets to a multiplexed server, becau
 some things are worth learning the slow way.
 
 ### Contributions
-
-<p>
-  <img height="180" src="https://streak-stats.demolab.com/?user=acharyabi&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00C721&currStreakNum=FFFFFF&sideNums=00FF41&dates=008F11" alt="contribution streak" />
-</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=acharyabi&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Commits" alt="activity graph" />
 
