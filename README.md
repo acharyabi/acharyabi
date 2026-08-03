@@ -21,6 +21,10 @@ billions of rows, and now and then a microcontroller that needs to figure out wh
 
 I would rather compose proven primitives than rebuild what already works.
 
+Outside of that I like building products that make an ordinary day less annoying.
+I vibe code a lot of them, which gets a rough thing in front of real use quickly,
+and the parts that survive are the parts worth hardening.
+
 Lately I have been taking breaks to go deeper into systems programming and the
 fundamentals underneath everything, because I like understanding how the whole
 universe fits together.
@@ -53,9 +57,19 @@ Trying to understand systems properly, the whole stack of them. POSIX and system
 networking, and how memory actually behaves, then working up to how the choice of
 programming language and algorithm shapes the way you end up thinking about a problem.
 
+On the product side I am building a lab report OCR tool, the kind of thing that turns
+a scanned page of test results into something you can actually read and track.
+
 Alongside that: a Go backend template I actually want to start projects from, and next
 up a TCP chat server in C, working from raw sockets to a multiplexed server, because
 some things are worth learning the slow way.
+
+### Got an idea?
+
+If there is something small and annoying in your day that software should have fixed
+by now, I would genuinely like to hear about it. Some of them turn into real projects.
+
+<a href="https://github.com/acharyabi/acharyabi/discussions">Start a discussion</a>
 
 ### Contributions
 
