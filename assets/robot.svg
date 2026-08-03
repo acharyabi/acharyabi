@@ -1,51 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 290" width="240" height="290" role="img" aria-label="A small green robot">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 290" width="240" height="290" role="img" aria-label="A small robot">
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
   <rect x="0" y="0" width="240" height="290" rx="14" fill="#0D1117"/>
 
-  <g fill="none" stroke="#00FF41" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
 
     <!-- antenna -->
-    <path d="M120 40 L120 22"/>
-    <circle cx="120" cy="16" r="6" fill="#00FF41" stroke="none">
+    <path d="M120 40 L120 22" stroke="#F43F5E"/>
+    <circle cx="120" cy="16" r="6" fill="#F43F5E" stroke="none">
       <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
     </circle>
 
     <!-- head -->
-    <rect x="52" y="40" width="136" height="82" rx="16" fill="#03150A"/>
+    <rect x="52" y="40" width="136" height="82" rx="16" fill="url(#plate)" stroke="#22D3EE"/>
 
     <!-- eyes -->
-    <circle cx="92" cy="78" r="20" fill="#03150A" stroke="#00C721"/>
-    <circle cx="148" cy="78" r="20" fill="#03150A" stroke="#00C721"/>
-    <ellipse cx="92" cy="78" rx="9" ry="9" fill="#00FF41" stroke="none">
+    <circle cx="92" cy="78" r="20" fill="#0B1220" stroke="#FDAE61"/>
+    <circle cx="148" cy="78" r="20" fill="#0B1220" stroke="#FDAE61"/>
+    <ellipse cx="92" cy="78" rx="9" ry="9" fill="#FFD166" stroke="none">
       <animate attributeName="ry" values="9;9;9;9;1;9" dur="4.6s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="148" cy="78" rx="9" ry="9" fill="#00FF41" stroke="none">
+    <ellipse cx="148" cy="78" rx="9" ry="9" fill="#FFD166" stroke="none">
       <animate attributeName="ry" values="9;9;9;9;1;9" dur="4.6s" repeatCount="indefinite"/>
     </ellipse>
 
     <!-- mouth grill -->
-    <path d="M96 104 L144 104" stroke="#008F11"/>
+    <path d="M96 104 L144 104" stroke="#F43F5E"/>
 
     <!-- neck -->
-    <path d="M104 122 L104 136 M136 122 L136 136"/>
+    <path d="M104 122 L104 136 M136 122 L136 136" stroke="#64748B"/>
 
     <!-- body -->
-    <rect x="46" y="136" width="148" height="94" rx="12" fill="#03150A"/>
-    <rect x="70" y="158" width="100" height="34" rx="6" stroke="#008F11"/>
-    <path d="M82 175 L100 175 M112 175 L128 175 M140 175 L158 175" stroke="#00C721"/>
-    <circle cx="120" cy="212" r="9" stroke="#008F11"/>
+    <rect x="46" y="136" width="148" height="94" rx="12" fill="url(#plate)" stroke="#A78BFA"/>
+    <rect x="70" y="158" width="100" height="34" rx="6" stroke="#22D3EE"/>
+    <path d="M82 175 L100 175" stroke="#F43F5E"/>
+    <path d="M112 175 L128 175" stroke="#FDAE61"/>
+    <path d="M140 175 L158 175" stroke="#4ADE80"/>
+    <circle cx="120" cy="212" r="9" stroke="#FDAE61"/>
 
     <!-- arms -->
-    <path d="M46 156 L24 156 L24 196"/>
-    <path d="M194 156 L216 156 L216 196"/>
-    <circle cx="24" cy="204" r="7" fill="#00C721" stroke="none"/>
-    <circle cx="216" cy="204" r="7" fill="#00C721" stroke="none"/>
+    <path d="M46 156 L24 156 L24 196" stroke="#2C7BB6"/>
+    <path d="M194 156 L216 156 L216 196" stroke="#2C7BB6"/>
+    <circle cx="24" cy="204" r="7" fill="#22D3EE" stroke="none"/>
+    <circle cx="216" cy="204" r="7" fill="#22D3EE" stroke="none"/>
 
     <!-- treads -->
-    <rect x="52" y="240" width="60" height="34" rx="14" fill="#03150A"/>
-    <rect x="128" y="240" width="60" height="34" rx="14" fill="#03150A"/>
-    <circle cx="70" cy="257" r="6" fill="#00C721" stroke="none"/>
-    <circle cx="94" cy="257" r="6" fill="#00C721" stroke="none"/>
-    <circle cx="146" cy="257" r="6" fill="#00C721" stroke="none"/>
-    <circle cx="170" cy="257" r="6" fill="#00C721" stroke="none"/>
+    <rect x="52" y="240" width="60" height="34" rx="14" fill="url(#plate)" stroke="#A78BFA"/>
+    <rect x="128" y="240" width="60" height="34" rx="14" fill="url(#plate)" stroke="#A78BFA"/>
+    <circle cx="70" cy="257" r="6" fill="#FDAE61" stroke="none"/>
+    <circle cx="94" cy="257" r="6" fill="#F43F5E" stroke="none"/>
+    <circle cx="146" cy="257" r="6" fill="#F43F5E" stroke="none"/>
+    <circle cx="170" cy="257" r="6" fill="#FDAE61" stroke="none"/>
   </g>
 </svg>

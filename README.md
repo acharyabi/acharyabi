@@ -1,11 +1,9 @@
-<h1 align="center">Abinash Acharya</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=640&height=45&lines=Go+backends+that+stay+up;Python+pipelines+at+billion+row+scale;C+close+to+the+metal" alt="Go backends, Python pipelines, C close to the metal" />
+  <img src="https://raw.githubusercontent.com/acharyabi/acharyabi/main/assets/banner.svg" alt="Abinash Acharya, backends, data pipelines, close to the metal" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=acharyabi&label=visitors&color=00ff41&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=acharyabi&label=visitors&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 <table>
@@ -36,13 +34,16 @@ universe fits together.
 ### What I reach for
 
 <p>
-  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00FF41" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" alt="Python" />
-  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00FF41" alt="C" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF41" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/ClickHouse-0D1117?style=flat-square&logo=clickhouse&logoColor=00FF41" alt="ClickHouse" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=00FF41" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF41" alt="Docker" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=000000" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" alt="NATS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
 
 | | Where it goes | What that looks like |

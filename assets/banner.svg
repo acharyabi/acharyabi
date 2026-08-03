@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Abinash Acharya">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0%"   stop-color="#7C3AED"/>
+      <stop offset="26%"  stop-color="#2C7BB6"/>
+      <stop offset="52%"  stop-color="#22D3EE"/>
+      <stop offset="76%"  stop-color="#FDAE61"/>
+      <stop offset="100%" stop-color="#F43F5E"/>
+      <animate attributeName="x1" values="0;-0.6;0" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;1.6;1" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0D1117" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.72"/>
+    </linearGradient>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0 L0 0 0 30" fill="none" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="200" rx="16" fill="url(#sweep)"/>
+  <rect width="900" height="200" rx="16" fill="url(#grid)"/>
+  <rect width="900" height="200" rx="16" fill="url(#veil)"/>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" text-anchor="middle">
+    <text x="450" y="98" font-size="46" font-weight="700" fill="#FFFFFF" letter-spacing="2">
+      Abinash Acharya
+    </text>
+    <text x="450" y="134" font-size="14" fill="#FFFFFF" fill-opacity="0.88" letter-spacing="1">
+      backends · data pipelines · close to the metal
+    </text>
+  </g>
+
+  <g fill="#FFFFFF" fill-opacity="0.9">
+    <circle cx="392" cy="160" r="4">
+      <animate attributeName="fill-opacity" values="0.9;0.25;0.9" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="412" cy="160" r="4">
+      <animate attributeName="fill-opacity" values="0.9;0.25;0.9" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="432" cy="160" r="4">
+      <animate attributeName="fill-opacity" values="0.9;0.25;0.9" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="452" cy="160" r="4">
+      <animate attributeName="fill-opacity" values="0.9;0.25;0.9" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="472" cy="160" r="4">
+      <animate attributeName="fill-opacity" values="0.9;0.25;0.9" dur="2.6s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="492" cy="160" r="4">
+      <animate attributeName="fill-opacity" values="0.9;0.25;0.9" dur="2.6s" begin="2.0s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
